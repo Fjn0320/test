@@ -3,7 +3,7 @@ hello text在转移到新建的hot-fix分支上进行修改代码
 hello text
 hello text
 hello text
-hello text
+hello text:
 hello text 
-hello text 
+hello text hot-fix branch
 hello text
